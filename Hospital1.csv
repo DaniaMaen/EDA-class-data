@@ -1,0 +1,27 @@
+﻿Patient ID,Diagnosis,Mood (1-5),Blood Pressure,Age,Weight (kg)
+,,,,,
+P001,Diabetes,4,128,45,82
+P002,Hypertension,2,160,62,95
+P003,Flu,3,118,28,70
+P004,Diabetes,1,145,55,101
+P005,Heart Disease,2,170,71,88
+P006,Flu,5,112,19,63
+P007,Hypertension,3,155,48,77
+P008,Diabetes,2,138,60,90
+P009,Flu,4,110,33,68
+P010,Heart Disease,1,175,79,99
+P011,Asthma,3,122,41,74
+P012,Hypertension,4,148,53,85
+P013,Flu,5,115,22,60
+P014,Diabetes,2,152,67,96
+P015,Asthma,3,120,35,72
+P016,Heart Disease,1,168,74,102
+P017,Flu,4,108,17,58
+P018,Hypertension,2,162,58,88
+P019,Diabetes,3,134,50,80
+P020,Asthma,5,119,29,65
+S001,Flu,4,115,14,60
+S002,Asthma,3,120,13,58
+S003,Flu,5,112,14,55
+S004,Flu,2,118,13,62
+S005,Flu,3,110,14,57
